@@ -1,0 +1,7 @@
+Download Activity Log - 2025-04-01 20:59:58
+==================================================
+
+[2025-04-01 20:59:58] Fetching subject list...
+[2025-04-01 20:59:59] Found 82 subjects
+[2025-04-01 20:59:59] All subjects saved to subject_list.txt
+[2025-04-01 21:00:03] Exiting program

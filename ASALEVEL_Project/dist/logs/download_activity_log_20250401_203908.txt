@@ -1,0 +1,15 @@
+Download Activity Log - 2025-04-01 20:39:08
+==================================================
+
+[2025-04-01 20:39:08] Fetching subject list...
+[2025-04-01 20:39:09] Found 82 subjects
+[2025-04-01 20:39:09] All subjects saved to subject_list.txt
+[2025-04-01 20:40:31] 
+Selected Group 1 with 21 subjects
+[2025-04-01 20:40:31] Setting crawl depth to: 2
+[2025-04-01 20:40:31] 
+Starting batch download of all subjects in the selected group...
+[2025-04-01 20:40:31] 
+===== Processing subject (1/21): Accounting (9706) =====
+[2025-04-01 20:40:31] Crawling Accounting (9706) - https://papers.xtremepape.rs/index.php?dirpath=./CAIE/AS+and+A+Level/Accounting+%289706%29/&order=0...
+[2025-04-01 20:40:32] Downloading file (1/880): 9706_A__AS_Level_Accounting_Examiner_Feedback_November_2014.zip
