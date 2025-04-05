@@ -1,0 +1,51 @@
+Download Activity Log - 2025-04-05 12:04:44
+==================================================
+
+[2025-04-05 12:04:44] Fetching examination sessions...
+[2025-04-05 12:04:45] Found 14 examination sessions
+[2025-04-05 12:04:45] All examination sessions saved to session_list.txt
+[2025-04-05 12:04:47] 
+Selected Group 1 with 4 sessions
+[2025-04-05 12:04:47] Setting crawl depth to: 3
+[2025-04-05 12:04:47] 
+Starting batch download of all sessions in the selected group...
+[2025-04-05 12:04:47] 
+===== Processing session (1/4): 2010 Examination Session =====
+[2025-04-05 12:04:47] Crawling 2010+Examination+Session...
+[2025-04-05 12:04:47] Entering subdirectory: May 2010 Examination Session
+[2025-04-05 12:04:47] Crawling 2010+Examination+Session/May+2010+Examination+Session...
+[2025-04-05 12:04:48] Entering subdirectory: Group 1 - Studies in Language and Literature
+[2025-04-05 12:04:48] Crawling 2010+Examination+Session/May+2010+Examination+Session...
+[2025-04-05 12:04:49] Downloading file (1/272): Albanian_A1_paper_1_SL.pdf
+[2025-04-05 12:04:49] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Albanian_A1_paper_1_SL.pdf
+[2025-04-05 12:04:50] Downloading file (2/272): Albanian_A1_paper_2_SL.pdf
+[2025-04-05 12:04:51] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Albanian_A1_paper_2_SL.pdf
+[2025-04-05 12:04:51] Downloading file (3/272): Amharic_A1_paper_1_HL.pdf
+[2025-04-05 12:04:52] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Amharic_A1_paper_1_HL.pdf
+[2025-04-05 12:04:52] Downloading file (4/272): Amharic_A1_paper_1_SL.pdf
+[2025-04-05 12:04:53] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Amharic_A1_paper_1_SL.pdf
+[2025-04-05 12:04:54] Downloading file (5/272): Amharic_A1_paper_2_HL.pdf
+[2025-04-05 12:04:54] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Amharic_A1_paper_2_HL.pdf
+[2025-04-05 12:04:55] Downloading file (6/272): Amharic_A1_paper_2_SL.pdf
+[2025-04-05 12:04:55] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Amharic_A1_paper_2_SL.pdf
+[2025-04-05 12:04:56] Downloading file (7/272): Arabic_A1_paper_1_HL.pdf
+[2025-04-05 12:04:57] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_1_HL.pdf
+[2025-04-05 12:04:57] Downloading file (8/272): Arabic_A1_paper_1_HL_markscheme.38.pdf
+[2025-04-05 12:04:58] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_1_HL_markscheme.38.pdf
+[2025-04-05 12:04:58] Downloading file (9/272): Arabic_A1_paper_1_SL.pdf
+[2025-04-05 12:05:00] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_1_SL.pdf
+[2025-04-05 12:05:00] Downloading file (10/272): Arabic_A1_paper_1_SL_markscheme.3a.pdf
+[2025-04-05 12:05:04] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_1_SL_markscheme.3a.pdf
+[2025-04-05 12:05:05] Downloading file (11/272): Arabic_A1_paper_2_HL.pdf
+[2025-04-05 12:05:10] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_2_HL.pdf
+[2025-04-05 12:05:10] Downloading file (12/272): Arabic_A1_paper_2_HL_markscheme.3c.pdf
+[2025-04-05 12:05:14] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_2_HL_markscheme.3c.pdf
+[2025-04-05 12:05:15] Downloading file (13/272): Arabic_A1_paper_2_SL.pdf
+[2025-04-05 12:05:18] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_2_SL.pdf
+[2025-04-05 12:05:18] Downloading file (14/272): Arabic_A1_paper_2_SL_markscheme.3e.pdf
+[2025-04-05 12:05:27] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Arabic_A1_paper_2_SL_markscheme.3e.pdf
+[2025-04-05 12:05:27] Downloading file (15/272): Belarusian_A1_paper_1_SL.pdf
+[2025-04-05 12:05:30] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Belarusian_A1_paper_1_SL.pdf
+[2025-04-05 12:05:31] Downloading file (16/272): Belarusian_A1_paper_2_SL.pdf
+[2025-04-05 12:05:34] File saved to: downloads\2010 Examination Session\May+2010+Examination+Session\Belarusian_A1_paper_2_SL.pdf
+[2025-04-05 12:05:34] Downloading file (17/272): Bengali_A1_paper_1_SL.pdf

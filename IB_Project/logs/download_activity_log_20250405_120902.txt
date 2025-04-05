@@ -1,0 +1,34 @@
+Download Activity Log - 2025-04-05 12:09:02
+==================================================
+
+[2025-04-05 12:09:02] Fetching examination sessions...
+[2025-04-05 12:09:03] Found 14 examination sessions
+[2025-04-05 12:09:03] All examination sessions saved to session_list.txt
+[2025-04-05 12:09:13] 
+Selected Group 1 with 4 sessions
+[2025-04-05 12:09:13] Setting crawl depth to: 4
+[2025-04-05 12:09:13] 
+Starting batch download of all sessions in the selected group...
+[2025-04-05 12:09:13] 
+===== Processing session (1/4): 2010 Examination Session =====
+[2025-04-05 12:09:13] Crawling 2010+Examination+Session...
+[2025-04-05 12:09:14] Entering subdirectory: May 2010 Examination Session
+[2025-04-05 12:09:14] Crawling 2010+Examination+Session/May+2010+Examination+Session...
+[2025-04-05 12:09:15] Entering subdirectory: Group 1 - Studies in Language and Literature
+[2025-04-05 12:09:15] Crawling 2010+Examination+Session/May+2010+Examination+Session/Group+1+-+Studies+in+Language+and+Literature...
+[2025-04-05 12:09:15] Downloading file (1/272): Albanian_A1_paper_1_SL.pdf
+[2025-04-05 12:09:16] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Albanian_A1_paper_1_SL.pdf
+[2025-04-05 12:09:16] Downloading file (2/272): Albanian_A1_paper_2_SL.pdf
+[2025-04-05 12:09:17] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Albanian_A1_paper_2_SL.pdf
+[2025-04-05 12:09:18] Downloading file (3/272): Amharic_A1_paper_1_HL.pdf
+[2025-04-05 12:09:19] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Amharic_A1_paper_1_HL.pdf
+[2025-04-05 12:09:20] Downloading file (4/272): Amharic_A1_paper_1_SL.pdf
+[2025-04-05 12:09:20] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Amharic_A1_paper_1_SL.pdf
+[2025-04-05 12:09:21] Downloading file (5/272): Amharic_A1_paper_2_HL.pdf
+[2025-04-05 12:09:22] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Amharic_A1_paper_2_HL.pdf
+[2025-04-05 12:09:22] Downloading file (6/272): Amharic_A1_paper_2_SL.pdf
+[2025-04-05 12:09:23] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Amharic_A1_paper_2_SL.pdf
+[2025-04-05 12:09:24] Downloading file (7/272): Arabic_A1_paper_1_HL.pdf
+[2025-04-05 12:09:25] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Arabic_A1_paper_1_HL.pdf
+[2025-04-05 12:09:25] Downloading file (8/272): Arabic_A1_paper_1_HL_markscheme.38.pdf
+[2025-04-05 12:09:27] File saved to: downloads\2010 Examination Session\2010+Examination+Session\May+2010+Examination+Session\Group+1+-+Studies+in+Language+and+Literature\Arabic_A1_paper_1_HL_markscheme.38.pdf
